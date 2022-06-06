@@ -1,0 +1,9 @@
+* {
+    background-color: rgb(158, 103, 48);
+    color: rgb(138, 0, 138);
+}
+
+p,
+li {
+    background-color: peru;
+}

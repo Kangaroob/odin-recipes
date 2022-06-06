@@ -1,0 +1,14 @@
+* {
+    background-color: rgb(103, 223, 223);
+    color: black;
+}
+
+p,
+li {
+    background-color: rgb(33, 37, 39);
+    color: cyan;
+}
+
+a {
+    font-size: 28px;
+}

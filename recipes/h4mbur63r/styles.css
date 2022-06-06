@@ -1,0 +1,10 @@
+* {
+    background-color: saddlebrown;
+    color: palegoldenrod;
+}
+
+p,
+li {
+    background-color: palegoldenrod;
+    color: saddlebrown;
+}
